@@ -1,0 +1,17 @@
+:root {
+  color-scheme: light;
+  background: #b9cde0;
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  background: #b9cde0;
+}
+
+body {
+  overflow: hidden;
+}
